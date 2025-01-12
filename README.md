@@ -38,7 +38,7 @@ This project includes the following components:
 
 + **HTML Files**
 
-    -  ` resume2.html` : The main homepage with navigation, welcome, skills, and contact sections.
+    - `resume2.html` : The main homepage with navigation, welcome, skills, and contact sections.
     - `projects.html`: A dedicated page showcasing impactful projects.
     - `experience.html`: A professional journey with detailed descriptions of roles and achievements.
 
